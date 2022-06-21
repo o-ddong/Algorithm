@@ -1,5 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
-
 ✅ commit 규칙
 ---
 - commit 메세지: [문제 출처(플랫폼)] 문제이름 / 난이도 / 걸린시간
