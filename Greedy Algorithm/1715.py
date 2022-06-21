@@ -47,3 +47,7 @@ while len(cardSet) != 1:
     heapq.heappush(cardSet, first + second)
 
 print(result)
+
+# deque로도 풀 수 있음
+# http://boj.kr/d645477b0a364bcdbb13fe6ada989957
+# http://boj.kr/fa9c168f4e744aa3bfd80a3f6d876b20
